@@ -1,0 +1,13 @@
+/Users/mac/Projects/prueba/prueba/bin/Debug/netstandard2.0/prueba.deps.json
+/Users/mac/Projects/prueba/prueba/bin/Debug/netstandard2.0/prueba.dll
+/Users/mac/Projects/prueba/prueba/bin/Debug/netstandard2.0/prueba.pdb
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/prueba.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/prueba.AssemblyInfoInputs.cache
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/prueba.AssemblyInfo.cs
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/prueba.dll
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/prueba.pdb
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/prueba.csprojAssemblyReference.cache
+/Users/mac/Projects/prueba/prueba/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs

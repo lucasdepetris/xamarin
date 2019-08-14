@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{433FE082-2384-444B-8FBD-198AC1D2C46B}|Default">
+  <MonoDevelop.Ide.ItemProperties.prueba.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.ZL5224R5CS" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="prueba/MainPage.xaml.cs">
+    <Files>
+      <File FileName="prueba/MainPage.xaml.cs" Line="25" Column="10" />
+      <File FileName="prueba/MainPage.xaml" Line="10" Column="38" />
+      <File FileName="prueba/Monkey.cs" Line="1" Column="1" />
+      <File FileName="prueba/DetailPage.xaml" Line="24" Column="34" />
+      <File FileName="prueba/DetailPage.xaml.cs" Line="13" Column="13" />
+      <File FileName="prueba/App.xaml.cs" Line="13" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="prueba" expanded="True" selected="True">
+            <Node name="prueba" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="DetailPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
